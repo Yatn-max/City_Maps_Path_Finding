@@ -1,0 +1,1 @@
+if max_lat == min_l
